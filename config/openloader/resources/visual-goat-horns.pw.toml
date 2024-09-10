@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4011028
 project-id = 681949
+
+[option]
+optional = true
+default = false
+description = "Resource pack that changes the look of goat horns based on the sound they make"
