@@ -236,16 +236,6 @@ hash = "9e26bfad609bded0b1ed972a4cb6ed0bd66fdecd352970ffee6b50dd6a81b4fb"
 metafile = true
 
 [[files]]
-file = "mods/puffish-attributes.pw.toml"
-hash = "f27e5c31a8c6ac306817c44a86059e794244526dbd55e0ec43435d0c931e6e5e"
-metafile = true
-
-[[files]]
-file = "mods/puffish-skills.pw.toml"
-hash = "df336403c2e1d0a3ffaa2ec44ee144cabe293f0701174074e2c9acd00b8b53a8"
-metafile = true
-
-[[files]]
 file = "mods/skills.pw.toml"
 hash = "137c99ce49689e3489e93a2297aa4d05789c405f5defa4f989ac4cf7f4c81e3b"
 metafile = true
