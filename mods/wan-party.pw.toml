@@ -1,0 +1,13 @@
+name = "WAN Party"
+filename = "WANParty-1.0.1-b-dev-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R5N4InkF/versions/HReF4Te3/WANParty-1.0.1-b-dev-1.20.1.jar"
+hash-format = "sha512"
+hash = "be7cbb885988bdf3599b4862fb9680e0efdedabc9a073fe148f3f903155febb4f38326f25ef71a9b26904efb6ed3895b8268803f52967c88043af3044d5bfbd9"
+
+[update]
+[update.modrinth]
+mod-id = "R5N4InkF"
+version = "HReF4Te3"

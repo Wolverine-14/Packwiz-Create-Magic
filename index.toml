@@ -1,12 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/WANParty-1.0.1-b-dev-1.20.1.jar"
-hash = "6fec25710e7ce090500c0db4383079fee9320b65f32bcf3a9e36d07d437c8824"
-
-[[files]]
-file = "mods/advancementsfullscreen-mc1.20+1.0.jar"
-hash = "28fef3b31cc71e1c57b063c3d380abe2175f233c2885a25d12ae435c52e376f7"
+file = "mods/advancementsfullscreen.pw.toml"
+hash = "1a9860ee8bdd72d3e11c322f8f6f9197ee87a91c2eda21e968ceadf98515cb99"
+metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
@@ -142,10 +139,6 @@ hash = "3154ee632b385645dd0f475997c1fd7ce30c670ae14e422cb9c8e2b0c5d67cab"
 metafile = true
 
 [[files]]
-file = "mods/justenoughbreeding-fabric-1.20.x-1.4.0.jar"
-hash = "bd69476fae2ecc8f2669986d441a91845936ac94c38497690f76a1bb5e3d60d2"
-
-[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "7b6c04ee1d96c39684ba23eec607ce29d33cb4a48e080f5ff664cf67188e3cf8"
 metafile = true
@@ -207,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+metafile = true
+
+[[files]]
+file = "mods/wan-party.pw.toml"
+hash = "9f8a3fb75cc95e414f27874f398c52a1670a7ae02a6580223dbbc29dbf4ebc64"
 metafile = true
 
 [[files]]

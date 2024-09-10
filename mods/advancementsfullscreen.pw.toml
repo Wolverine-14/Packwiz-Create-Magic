@@ -1,0 +1,13 @@
+name = "AdvancementsFullscreen"
+filename = "advancementsfullscreen-mc1.20+1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7BgsROit/versions/hFCut0mo/advancementsfullscreen-mc1.20%2B1.0.jar"
+hash-format = "sha512"
+hash = "71cb2d656e02afccb69a639b797227cbd2665f44b6707df61e6eeaf162c0b59183d5656cd34d3dcfb6abfb74ceaf1b4bc9efd6b058384553d80426f73b9080e8"
+
+[update]
+[update.modrinth]
+mod-id = "7BgsROit"
+version = "hFCut0mo"
