@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/default-skill-trees.pw.toml"
+hash = "03895020d495f780c8d11157b0b80331969dc7b7370c4eae48f9313c5b34de96"
+metafile = true
+
+[[files]]
 file = "mods/advancementsfullscreen.pw.toml"
 hash = "1a9860ee8bdd72d3e11c322f8f6f9197ee87a91c2eda21e968ceadf98515cb99"
+metafile = true
+
+[[files]]
+file = "mods/attributes.pw.toml"
+hash = "f6f6097b59c2cf8cf580e45c63a3d9d4e39d8259a7162ea4713437b01083369f"
 metafile = true
 
 [[files]]
@@ -164,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "7536a88d4bc98d753d59b95bc097d2f0970fa0c0b0243ab83eaf426cb0abb471"
+hash = "bbf5b5be9b231e704301b4f28b8353f06a720a798eb518f960f3a1879825ffcf"
 metafile = true
 
 [[files]]
@@ -190,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/puffish-skills.pw.toml"
 hash = "df336403c2e1d0a3ffaa2ec44ee144cabe293f0701174074e2c9acd00b8b53a8"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "137c99ce49689e3489e93a2297aa4d05789c405f5defa4f989ac4cf7f4c81e3b"
 metafile = true
 
 [[files]]
