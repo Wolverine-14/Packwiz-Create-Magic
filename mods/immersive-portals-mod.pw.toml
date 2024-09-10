@@ -1,6 +1,7 @@
 name = "Immersive Portals"
 filename = "immersive-portals-3.3.9-mc1.20.1-fabric.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

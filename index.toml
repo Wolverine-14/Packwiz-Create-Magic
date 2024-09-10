@@ -6,6 +6,46 @@ hash = "03895020d495f780c8d11157b0b80331969dc7b7370c4eae48f9313c5b34de96"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/barebones-bossbars.pw.toml"
+hash = "6d7687af164d78748a6b8084cb4e1d374575f43d95976528576720f95fc4d191"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/better-gui-for-toms-simple-storage.pw.toml"
+hash = "8ce3841f47a50114f13d358fa02bfcd393437fe176d93b99f9838c772cd9a9bb"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/even-better-enchants.pw.toml"
+hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/toms-create-storage.pw.toml"
+hash = "9f8d93ef03dca6ca4dddb107b42fa980884efb68b03fc21708664f61dbd882eb"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/visual-goat-horns.pw.toml"
+hash = "069042557ea531bffba5a6118c46b28d0f33b80dd9ce5bfc0bf80822763e4be0"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/visual-leaf-decay.pw.toml"
+hash = "01f798a53b74d623c0ffc7c43f466d2a14dff798efd978c50aaf72a8e843a44b"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/xalis-enhanced-vanilla.pw.toml"
+hash = "ae7edf88421a097a50a8d2081dad32598bc24fc3bff7f0961763645a6fff37d2"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/xalis-potion.pw.toml"
+hash = "7ddba10340c622336e7fbcd6ed7d45b5e865153d46aeef6db670d84e146a7e2a"
+metafile = true
+
+[[files]]
 file = "mods/advancementsfullscreen.pw.toml"
 hash = "1a9860ee8bdd72d3e11c322f8f6f9197ee87a91c2eda21e968ceadf98515cb99"
 metafile = true
@@ -27,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "58e5253866175c1b006059dda7fa1da847a1d99c748a11ac35331dfa7abe1253"
+hash = "306076a0a0ed006dc6b19892ae46059233661120efa9d01b7185861c533a4593"
 metafile = true
 
 [[files]]
@@ -57,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "d9bf0020f39ea4cea9c1350fdeefd5c651797ffaa01873ad91f6162fb0e210d4"
+hash = "8cb28cb057c438343dd428abaab06f3d76a2525ef9d24a4bb0beebfd8fd02457"
 metafile = true
 
 [[files]]
@@ -126,21 +166,23 @@ hash = "37df6121a88ff123078242134b0112c863cd219b6ce80bd4ec79c82a3bb4d8fa"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
-hash = "4ceaab499c4335a41ac142801c3321c12f3dee580eaa80886afcd6d37cac7079"
+file = "mods/hexal.pw.toml"
+hash = "eb5a10db592e335298fe677285335430ba54695ec918fa895ebe95878206c2c7"
+metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-646.jar"
-hash = "1b2c4af54e7bbb4edba0fa93c8b92f2e2482ef82503f1e87b68b000ef0245d68"
+file = "mods/hexcasting.pw.toml"
+hash = "389054afabdb4c6a618b0772ffcfb36210caf2de6302f00b67254820c66f1bba"
+metafile = true
 
 [[files]]
 file = "mods/immersive-portals-mod.pw.toml"
-hash = "d5fc01eaabb7f27b207b9f0890ff211de6de01cddfdf6aac4ecb0a7f200c1655"
+hash = "fda5a3a48d5a1e327371084777f0f17e7ab27fa7699689a61bbdcbbd551a58c3"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "2e5c94e4f1bdfe8c9da4e987e9b3639599591575b3dc91ed0bb120adcee0ee85"
+hash = "a8f4a7e40bd54663c5e5ef41a47b30cdee528a39b3e07fedebeb2904366e3400"
 metafile = true
 
 [[files]]
@@ -159,8 +201,9 @@ hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
 metafile = true
 
 [[files]]
-file = "mods/moreiotas-fabric-1.20.1-0.1.0-5.jar"
-hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
+file = "mods/moreiotas.pw.toml"
+hash = "e64bfc85a5ae26ed312619569edaf4771e2fce958d34275aef77247c96fe9d5b"
+metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
@@ -209,7 +252,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "06fdfeca6c47907324317e21e7dc09cc2dad5edeb615b95b41eaac624d09acd2"
+hash = "0e26003ee60cdc3ac8167d3105885d7b9fa4600d03a7bb0823082cb1f8d02d32"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "fe163268dc062dc702c3accbb0f9fc01823b466f8e91f86d5b9dea472a1becd2"
 metafile = true
 
 [[files]]

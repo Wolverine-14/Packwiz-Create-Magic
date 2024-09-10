@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5520817
 project-id = 663658
+
+[option]
+optional = true
+default = true
+description = "Client side mod that changes elytra flight"

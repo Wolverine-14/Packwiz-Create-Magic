@@ -1,0 +1,13 @@
+name = "Barebones Bossbars"
+filename = "barebones+bossbar.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fv0dWWtc/versions/juPcHtLJ/barebones%2Bbossbar.zip"
+hash-format = "sha512"
+hash = "cd7d382bda26f27df17b67d91cfb8500a3e666fa414345665c21c961e04634cbdfef2180320c7e34d8e7ca2088e786cfd0594594b0f564db0362613ff908f42c"
+
+[update]
+[update.modrinth]
+mod-id = "Fv0dWWtc"
+version = "juPcHtLJ"

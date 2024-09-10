@@ -1,0 +1,7 @@
+name = "HexCasting"
+filename = "hexcasting-fabric-1.20.1-0.11.1-7-pre-673.jar"
+
+[download]
+url = "https://maven.blamejared.com/at/petra-k/hexcasting/hexcasting-fabric-1.20.1/0.11.1-7-pre-673/hexcasting-fabric-1.20.1-0.11.1-7-pre-673.jar"
+hash-format = "sha256"
+hash = "2374763a97f11a027f79193fa77eeb094224d2df7a40b2c865339d2ce98463ec"
