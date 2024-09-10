@@ -26,11 +26,6 @@ hash = "9f8d93ef03dca6ca4dddb107b42fa980884efb68b03fc21708664f61dbd882eb"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/visual-goat-horns.pw.toml"
-hash = "069042557ea531bffba5a6118c46b28d0f33b80dd9ce5bfc0bf80822763e4be0"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/visual-leaf-decay.pw.toml"
 hash = "01f798a53b74d623c0ffc7c43f466d2a14dff798efd978c50aaf72a8e843a44b"
 metafile = true
