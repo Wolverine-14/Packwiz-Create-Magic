@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "8cb28cb057c438343dd428abaab06f3d76a2525ef9d24a4bb0beebfd8fd02457"
+hash = "5905754453bbd19edb4b6bf7b1bf7907d9f2ce32384d1e69f6a6c54bf9c77170"
 metafile = true
 
 [[files]]
@@ -182,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a8f4a7e40bd54663c5e5ef41a47b30cdee528a39b3e07fedebeb2904366e3400"
+hash = "a1756bfadb5523402a60460eaa7e9f927879fed5b15ecba860415b8dc5c2da1c"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3154ee632b385645dd0f475997c1fd7ce30c670ae14e422cb9c8e2b0c5d67cab"
+hash = "09650b36c58895027559b8a73b99da524890934937b0c08fe6bda96535af3a38"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/wan-party.pw.toml"
-hash = "9f8a3fb75cc95e414f27874f398c52a1670a7ae02a6580223dbbc29dbf4ebc64"
+hash = "19cf66d9ee26f44a0314c3175deb030f5427823f77ac0470e547966ef9f306ae"
 metafile = true
 
 [[files]]

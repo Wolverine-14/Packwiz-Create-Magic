@@ -1,7 +1,6 @@
 name = "Indium"
 filename = "indium-1.0.27+mc1.20.1.jar"
-side = "both"
-pin = true
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -12,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4765124
 project-id = 459496
-
-[option]
-optional = true
-default = false
-description = "Mod to enable shaders"

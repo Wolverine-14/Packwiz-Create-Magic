@@ -1,6 +1,7 @@
 name = "Iris Shaders"
 filename = "iris-mc1.20.1-1.6.11.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/ogjxrwGQ/iris-mc1.20.1-1.6.11.jar"
@@ -11,3 +12,7 @@ hash = "209dda6b3d8a2d6f2d3008e1c14cc108fe4a28fe6847a439029f9ce1f333a1d7d893bd27
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "ogjxrwGQ"
+
+[option]
+optional = true
+description = "Mod to enable shaders"
