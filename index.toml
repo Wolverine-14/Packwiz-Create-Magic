@@ -22,7 +22,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/engineering/category.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "81af8c19bbd2c94346340966a11f4ea174ba0e3e8723e8ecd0191dc83504fcc9"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/engineering/connections.json"
