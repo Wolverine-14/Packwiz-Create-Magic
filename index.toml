@@ -76,13 +76,18 @@ hash = "5e004570df8b7f1b0e4e57e199fcc30c2d3d7e77c802cdead2c4bc3d165f6d89"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "7d8c0c0bb4d93eb33b62bc5e69509051de5902b6d40c10807ed0f8e96507139a"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
+hash = "965b3cc83e1bca99bd1b89ec5f94495d831fcf7d03317cb50891752b0ca7ddc0"
 metafile = true
 
 [[files]]
@@ -147,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ea99a6e82af6a00b7050f66529ae0c506cafa90bb04efa275e2a9aa38ce4d7c0"
+hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
 metafile = true
 
 [[files]]
@@ -171,18 +176,23 @@ hash = "389054afabdb4c6a618b0772ffcfb36210caf2de6302f00b67254820c66f1bba"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-mod.pw.toml"
-hash = "fda5a3a48d5a1e327371084777f0f17e7ab27fa7699689a61bbdcbbd551a58c3"
+file = "mods/hexdim.pw.toml"
+hash = "43205cc02ed373e94db92a369da5c58a9f3380261cfe73f58bc0b7b04b7ad9f7"
+metafile = true
+
+[[files]]
+file = "mods/hexsky.pw.toml"
+hash = "aa06af94a7c46be239d3fd13f86616af00d7f2a7fadd2774810e5b9965507adc"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "60cdc90c368745163d4890bbf5845ec511131ca6a1ec14e034789e2ced123e94"
+hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "09650b36c58895027559b8a73b99da524890934937b0c08fe6bda96535af3a38"
+hash = "7a2635f10c95ffb6ee18550260c5d55a579e82c6bd4df6379fab44a2d3710602"
 metafile = true
 
 [[files]]
@@ -236,18 +246,13 @@ hash = "06e36bd2c7909f3eff22b5ddbf107f0575365f2a50a14e00f497fc7e2cc95f3a"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "9e26bfad609bded0b1ed972a4cb6ed0bd66fdecd352970ffee6b50dd6a81b4fb"
-metafile = true
-
-[[files]]
 file = "mods/skills.pw.toml"
 hash = "137c99ce49689e3489e93a2297aa4d05789c405f5defa4f989ac4cf7f4c81e3b"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0e26003ee60cdc3ac8167d3105885d7b9fa4600d03a7bb0823082cb1f8d02d32"
+hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
 
 [[files]]
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
 metafile = true
 
 [[files]]
