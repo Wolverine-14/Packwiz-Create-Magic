@@ -1,6 +1,94 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/combat/category.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/combat/connections.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/combat/definitions.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/combat/esperience.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/combat/skills.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/engineering/category.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/engineering/connections.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/engineering/definitions.json"
+hash = "6e780e5f9d6050818dcee8d96ac0d0bddc17ab58839c16c1e2ec972821f7a259"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/engineering/esperience.json"
+hash = "1efada3cc136e0a5becbd4c0d956cc57d3a95cc5fa60d904bbebe58b74b67f56"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/engineering/skills.json"
+hash = "d3e36a7b9f38e295a55f3b8ed7f6adb38d561e6668313f45f11ea7f2eaab88a3"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/magic/category.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/magic/connections.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/magic/definitions.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/magic/esperience.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/magic/skills.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/mining/category.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/mining/connections.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/mining/definitions.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/mining/esperience.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/categories/mining/skills.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/data/CreateSkills/puffish_skills/config.json"
+hash = "5f3154c60e57b9a09fc55283393c3fe60e776b892aa0e64dba3c788f0d730461"
+
+[[files]]
+file = "config/openloader/data/CreateSkills/pack.mcmeta"
+hash = "d0ac8dbfa1ce4278422b1753a57fdbc1cd886da0c82c446d720f8dcf0c2aacd2"
+
+[[files]]
 file = "config/openloader/resources/barebones-bossbars.pw.toml"
 hash = "6d7687af164d78748a6b8084cb4e1d374575f43d95976528576720f95fc4d191"
 metafile = true
