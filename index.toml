@@ -191,6 +191,11 @@ hash = "7b6c04ee1d96c39684ba23eec607ce29d33cb4a48e080f5ff664cf67188e3cf8"
 metafile = true
 
 [[files]]
+file = "mods/merlingsgrace.pw.toml"
+hash = "74f5c86f67819e65c94a86f2dfa64b9e6ce0af6315d35181c7ec4611674ab3da"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
 metafile = true
@@ -213,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "bbf5b5be9b231e704301b4f28b8353f06a720a798eb518f960f3a1879825ffcf"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
 metafile = true
 
 [[files]]

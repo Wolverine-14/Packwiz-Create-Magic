@@ -1,0 +1,13 @@
+name = "Merling's Grace"
+filename = "merlingsgrace-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XqDlbn3P/versions/u4OKj3XN/merlingsgrace-1.0.0.jar"
+hash-format = "sha512"
+hash = "8137b15829849c2cf0ee3328d8b1766ff9aece230ca2a48c34cd3b401bd1cf660b425c21375f8b4e15ae176a1b3a7a7948a288638816b115e388f0e2f16077f3"
+
+[update]
+[update.modrinth]
+mod-id = "XqDlbn3P"
+version = "u4OKj3XN"
