@@ -6,29 +6,6 @@
 		}
 	},
 	"sources": [
-		{
-			"type": "puffish_skills:craft_item",
-			"data": {
-				"parameters": {
-					"dropped_xp": {
-						"type": "entity_dropped_experience"
-					},
-					"max_health": {
-						"type": "entity_max_health"
-					}
-				},
-				"experience": [
-					{
-						"expression": "dropped_xp + max_health / 20"
-					}
-				],
-				"anti_farming": {
-					"enabled": true,
-					"limit_per_chunk": 5,
-					"reset_after_seconds": 60
-				}
-			}
-		},
         {
             "type": "puffish_skills:increase_stat",
             "data": {
