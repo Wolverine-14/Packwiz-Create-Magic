@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7a2635f10c95ffb6ee18550260c5d55a579e82c6bd4df6379fab44a2d3710602"
+hash = "d05c119ff625fc2e717e132de26c02c8c3385e2224c583044a9d83e274d9f9cd"
 metafile = true
 
 [[files]]
@@ -373,4 +373,14 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "ced03e9472d4d93f0d6f90ab06a5198a6d125f9f61ff53184185bbcee52eca7f"
 metafile = true

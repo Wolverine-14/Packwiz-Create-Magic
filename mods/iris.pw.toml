@@ -11,3 +11,8 @@ hash = "bb8a8f1ab1b302bbe5d6c5f970d8e781089836fb5e669780cd05fcc5a23e93152ea16e18
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "1CMVXDHo"
+
+[option]
+optional = true
+defualt = false
+description = "Mod that enables shaders"
