@@ -5,7 +5,7 @@
 	"icon": {
 		"type": "item",
 		"data": {
-			"item": "create:flywheel"
+			"item": "hexcasting:spellbook"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/stone.png"

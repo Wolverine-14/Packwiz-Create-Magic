@@ -5,7 +5,7 @@
 	"icon": {
 		"type": "item",
 		"data": {
-			"item": "create:flywheel"
+			"item": "tconstruct:pickaxe"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/stone.png"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/combat/category.json"
-hash = "fbf00b0bb2c0fb30570290d9e974a89ad9a651e47a86402231bf730a28ba3f3f"
+hash = "015664e7319121b0aea46ab35e94f5043aa074ba9c4313333697c309353ab090"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/combat/connections.json"
@@ -42,7 +42,7 @@ hash = "d3e36a7b9f38e295a55f3b8ed7f6adb38d561e6668313f45f11ea7f2eaab88a3"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/magic/category.json"
-hash = "95395ef605627ec7c9be9a51bd27adece27ebc7891c0e3305d38fddd79a741a7"
+hash = "d119e0a987ef208c4308589135fc97813bae79c92c2d85dc6a99866e2d178b85"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/magic/connections.json"
@@ -62,7 +62,7 @@ hash = "d3e36a7b9f38e295a55f3b8ed7f6adb38d561e6668313f45f11ea7f2eaab88a3"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/mining/category.json"
-hash = "5cdd0b6f0fd3630b4dedc0c01c4d595abae5879406754629e2908eb0f6e15161"
+hash = "ebc3fe30950f1f479daa594f5b548d2cd1d7f447da10e5bce92ab0adfbcb1028"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/mining/connections.json"
