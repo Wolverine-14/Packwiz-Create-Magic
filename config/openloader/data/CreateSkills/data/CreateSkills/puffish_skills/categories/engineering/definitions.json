@@ -1,20 +1,22 @@
 {
-	"title": "Educated Eye",
-    "description": "With this you will no longer need to wear Engeneers goggles",
-	"icon": {
-		"type": "item",
-		"data": {
-			"item": "create:goggles"
-		}
-	},
-	"rewards": [
-		{
-			"type": "puffish_skills:attribute",
+	"createGoggles": {
+		"title": "Educated Eye",
+		"description": "With this you will no longer need to wear Engeneers goggles",
+		"icon": {
+			"type": "item",
 			"data": {
-				"attribute": "generic.max_health",
-				"value": 2,
-				"operation": "addition"
+				"item": "create:goggles"
 			}
-		}
-	]
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		]
+	}
 }
