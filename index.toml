@@ -46,6 +46,11 @@ hash = "1a9860ee8bdd72d3e11c322f8f6f9197ee87a91c2eda21e968ceadf98515cb99"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+hash = "3af7d46849f1295e82437766c52e9a8635ce2c15e47870758f9d98ffb267ff25"
 metafile = true
 
 [[files]]
@@ -246,6 +251,11 @@ hash = "aeeb5c9fec36577a93545728e89ab3900399883f1a2d5e10aef1eaedf71eee45"
 metafile = true
 
 [[files]]
+file = "mods/ngrok-lan.pw.toml"
+hash = "af0efc8f5ef83c9a21a37d5260da0903fd87bdf5d1f924a2e8ee2ef251476245"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "275212f23c7a91b4764b7df11b163aac06a32e87bfe955ad758d04d68cb61eb7"
 metafile = true
@@ -308,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "f3b62c8bd55a5751bb5d885598eadefb6ac6ee629384f41ef08692f55bc23142"
-metafile = true
-
-[[files]]
-file = "mods/wan-party.pw.toml"
-hash = "19cf66d9ee26f44a0314c3175deb030f5427823f77ac0470e547966ef9f306ae"
 metafile = true
 
 [[files]]

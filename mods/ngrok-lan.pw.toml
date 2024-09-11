@@ -1,0 +1,18 @@
+name = "Ngrok LAN"
+filename = "ngrok-lan-expose-mod-1.5.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oTa1qz6R/versions/6UdNtOyj/ngrok-lan-expose-mod-1.5.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "0d435aa31c0c37b481077776e628148c43d6409114ac36e8e0837ffe07f1472c9c49211b1d4c3b739eead9c20357737859a941ce9b30c3d793d383fcec3afda4"
+
+[update]
+[update.modrinth]
+mod-id = "oTa1qz6R"
+version = "6UdNtOyj"
+
+[option]
+optional = true
+default = true
+description = "Adds the ability to easily share a world without having to manage port forwarding"
