@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/data/default-skill-trees.pw.toml"
-hash = "03895020d495f780c8d11157b0b80331969dc7b7370c4eae48f9313c5b34de96"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/barebones-bossbars.pw.toml"
 hash = "6d7687af164d78748a6b8084cb4e1d374575f43d95976528576720f95fc4d191"
 metafile = true
@@ -308,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "bbf5b5be9b231e704301b4f28b8353f06a720a798eb518f960f3a1879825ffcf"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "727beac4d8109d8136ce3aa101040a80caa4b353e3262eaa6d6256ca38d818b3"
 metafile = true
 
 [[files]]

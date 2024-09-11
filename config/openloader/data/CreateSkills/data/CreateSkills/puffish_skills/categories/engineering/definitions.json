@@ -1,0 +1,20 @@
+{
+	"title": "Educated Eye",
+    "description": "With this you will no longer need to wear Engeneers goggles",
+	"icon": {
+		"type": "effect",
+		"data": {
+			"effect": "health_boost"
+		}
+	},
+	"rewards": [
+		{
+			"type": "puffish_skills:attribute",
+			"data": {
+				"attribute": "generic.max_health",
+				"value": 2,
+				"operation": "addition"
+			}
+		}
+	]
+}
