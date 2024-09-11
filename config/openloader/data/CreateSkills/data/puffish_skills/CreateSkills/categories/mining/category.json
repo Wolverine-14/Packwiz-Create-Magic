@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": true,
+	"exclusive_root": true,
+	"title": "Mining",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "create:flywheel"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

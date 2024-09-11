@@ -2,6 +2,9 @@
     "version": 1,
 
     "categories": [
-        "engineering"
+        "combat",
+        "engineering",
+        "magic",
+        "mining"
     ]
 }
