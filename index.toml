@@ -71,6 +71,11 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a22a8fdcae0455822f1c3722c75f4bcd3f0ac340ccd3a453f8b1497b3ab4cf4f"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "5e004570df8b7f1b0e4e57e199fcc30c2d3d7e77c802cdead2c4bc3d165f6d89"
 metafile = true
@@ -156,6 +161,11 @@ hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
 metafile = true
 
 [[files]]
+file = "mods/fastmove.pw.toml"
+hash = "eb6f90591c0f013822b97d58f6e28fe50c8134e575a15a4588a491531a574d64"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "1e652f465fccd7b88b496a2f7ac5b07f538c10188549f675bda622fcd3a09883"
 metafile = true
@@ -201,6 +211,11 @@ hash = "7b6c04ee1d96c39684ba23eec607ce29d33cb4a48e080f5ff664cf67188e3cf8"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
+metafile = true
+
+[[files]]
 file = "mods/merlingsgrace.pw.toml"
 hash = "74f5c86f67819e65c94a86f2dfa64b9e6ce0af6315d35181c7ec4611674ab3da"
 metafile = true
@@ -213,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "e64bfc85a5ae26ed312619569edaf4771e2fce958d34275aef77247c96fe9d5b"
+metafile = true
+
+[[files]]
+file = "mods/movement-in-gui.pw.toml"
+hash = "80dc47e11e2a839ab4933c3c719357d7aac94459fede11193adffa24636e726a"
 metafile = true
 
 [[files]]
@@ -236,6 +256,11 @@ hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
@@ -256,6 +281,11 @@ hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "2c77d7a9c132f5e85c059331d0a5ea2435e1a6d7007e031538f08a927b2c9bad"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "fe163268dc062dc702c3accbb0f9fc01823b466f8e91f86d5b9dea472a1becd2"
 metafile = true
@@ -268,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "f3b62c8bd55a5751bb5d885598eadefb6ac6ee629384f41ef08692f55bc23142"
 metafile = true
 
 [[files]]
