@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/openloader/data/default-skill-trees.pw.toml"
-hash = "03895020d495f780c8d11157b0b80331969dc7b7370c4eae48f9313c5b34de96"
+hash = "09e063f01521e0cc2d9b4e7cd2a1361bf1998fb29c5e561785547bc4d5119a32"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "5e004570df8b7f1b0e4e57e199fcc30c2d3d7e77c802cdead2c4bc3d165f6d89"
+hash = "14a5af2b7faa6df33e76e7b704eaa398d78a6026c5c996bc5ea13ae02e5d6b74"
 metafile = true
 
 [[files]]
@@ -107,32 +107,27 @@ metafile = true
 
 [[files]]
 file = "mods/emi-create-schematics.pw.toml"
-hash = "bd0e708c884d2ea31cb739a3937f476cb5e52d5e33a8b94c82df4e834ae56d74"
+hash = "c19a508c148dbd12a6b9d5b1576d312ae2ba5dbbc300bcc46d7f9aae1b73e81a"
 metafile = true
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
-hash = "384e0e7ce4f19a22c11098614a2e1c7e9829ea7356a40268a25873a3a8830de1"
+hash = "348f14390acace02bafc6b22849a8f33aa193a8ccd9165a9f2703ed32b0bd7fe"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "4fc80c2140af76dbec6a91abecd29e0d574bc8ad54d199b32af4771b0691ef06"
+hash = "0403bef24a249d2fcd6be807f44f2b7dbd5c5950505fda3ec1cda1914e38832f"
 metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "b6c519c77dacae8431b342b7428044d068e44b49ffff5977d03aaea30f0c255b"
-metafile = true
-
-[[files]]
-file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
-hash = "cba9a89d5114ad8aaec8c4593851388bacf317cbe99428e347441c93ae9f8c1b"
+hash = "cb838eebb89a48121e1f36fe7c28f58e0b965ea1d7ac9c5ed423ed887f102d9d"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "71c58a89cfc4da4236844f124b7a199e0dfaea507baa6842582bd45cdadfe1bd"
+hash = "0e6cd851a0625b4f41f60e0ecb700f984c5002ba3aabc096c2b499b3f86ac406"
 metafile = true
 
 [[files]]
@@ -141,13 +136,18 @@ hash = "4da536e5e2f27fe98c9a2a1aa049e7f7e7abeb9cd3407cde6f966cd14d68f887"
 metafile = true
 
 [[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "bd35dd6f67127cd67c658f549e449cd8205d395ac718541fd20708bfaf42a4fc"
+file = "mods/emiffect.pw.toml"
+hash = "aa098fe2f0399fe8c95450af73f406eba41aee3bb58f5a450c434c713ca8cf5f"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
 metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "31f87b6d19c12906672487e033b6357787497e90ac24e9102467e18a8ab57612"
+hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
 metafile = true
 
 [[files]]
@@ -167,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "1e652f465fccd7b88b496a2f7ac5b07f538c10188549f675bda622fcd3a09883"
+hash = "7934dc8e24d73fd1ee4e520e1517bcbb41504a48a816fbbdd85186c3d45a03bc"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "37df6121a88ff123078242134b0112c863cd219b6ce80bd4ec79c82a3bb4d8fa"
+hash = "315dc632de6f067ccbda8a4ce4ef4e68945a4306333cfbadec1f7335c7a67c16"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
@@ -237,12 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "b49016fa67621ae1e219f8b286b5f3e117b46eff90cd655dc6194bce0b547037"
+hash = "aeeb5c9fec36577a93545728e89ab3900399883f1a2d5e10aef1eaedf71eee45"
 metafile = true
 
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
-hash = "97448529460ab3dfcc80ac1fd0594398e095ead5da1d54d5a9f2b8cbd947187f"
+hash = "275212f23c7a91b4764b7df11b163aac06a32e87bfe955ad758d04d68cb61eb7"
 metafile = true
 
 [[files]]

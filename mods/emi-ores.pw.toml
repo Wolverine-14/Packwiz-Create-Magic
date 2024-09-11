@@ -1,13 +1,13 @@
 name = "EMI Ores"
 filename = "emi_ores-0.4+1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f3f6d4e131545579d404fa52258b07b7a35a89da"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/DLW2L0g5/emi_ores-0.4%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "196e533ad70fc2910a62cb94f750cec2d77ec4e608ff831c8d201a8a0a16fb5e422f8a4b947b14e9841eb21bb7c94a61a7c2e7e7947168e1843eb52a96a81765"
 
 [update]
-[update.curseforge]
-file-id = 5213774
-project-id = 974009
+[update.modrinth]
+mod-id = "sG4TqDb8"
+version = "DLW2L0g5"
