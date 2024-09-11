@@ -129,11 +129,6 @@ hash = "1a9860ee8bdd72d3e11c322f8f6f9197ee87a91c2eda21e968ceadf98515cb99"
 metafile = true
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -264,6 +259,11 @@ hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "8ea11b348e14a256d830dd40f0e1d6736d069a8cc1e0b2a6747db6256be5247f"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
 metafile = true
@@ -339,13 +339,33 @@ hash = "d05c119ff625fc2e717e132de26c02c8c3385e2224c583044a9d83e274d9f9cd"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "254cf931c0da94dc08afde44489e7d79ef101e7e17d695a06d91a9a25d9bcb82"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c7814771fb151ba0f3f3722e2b3008d52b7f2429d5add8c93c00c2c7f5792d59"
+metafile = true
+
+[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "7b6c04ee1d96c39684ba23eec607ce29d33cb4a48e080f5ff664cf67188e3cf8"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "81d29eaa469c67cd4111dfce12c66bfbe78571a69b5b60288f428c18875bab12"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
 
 [[files]]
@@ -419,6 +439,16 @@ hash = "06e36bd2c7909f3eff22b5ddbf107f0575365f2a50a14e00f497fc7e2cc95f3a"
 metafile = true
 
 [[files]]
+file = "mods/ponder.pw.toml"
+hash = "f5e53a314a0456a1eb301628a6ba4ddde79bb6610f3a204c48ebec5c864918c7"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
+metafile = true
+
+[[files]]
 file = "mods/skills.pw.toml"
 hash = "137c99ce49689e3489e93a2297aa4d05789c405f5defa4f989ac4cf7f4c81e3b"
 metafile = true
@@ -464,8 +494,8 @@ hash = "40af5de7db5a767b935c406184bc298d6e9483cf255c5152dc2f795dd509ce06"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api-fabric.pw.toml"
-hash = "69ffae60381e09911815fb8f46af8300ddf3a06c00a312acd5b2494b47376274"
+file = "mods/yungs-api.pw.toml"
+hash = "4d0c5a4bfb516e886803194c72e59d2c0b8be576e617dd71f364c80c8a01a6b5"
 metafile = true
 
 [[files]]
@@ -486,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
 hash = "cd50e5cd765566a7da26153f8000913de415dd536e213f535009f8d4dd5cc3c7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
 metafile = true
 
 [[files]]
