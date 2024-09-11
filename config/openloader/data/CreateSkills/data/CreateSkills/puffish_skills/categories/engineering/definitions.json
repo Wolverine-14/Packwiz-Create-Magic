@@ -2,9 +2,9 @@
 	"title": "Educated Eye",
     "description": "With this you will no longer need to wear Engeneers goggles",
 	"icon": {
-		"type": "effect",
+		"type": "item",
 		"data": {
-			"effect": "health_boost"
+			"item": "create:goggles"
 		}
 	},
 	"rewards": [
