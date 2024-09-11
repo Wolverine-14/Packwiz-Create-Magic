@@ -46,6 +46,11 @@ hash = "1a9860ee8bdd72d3e11c322f8f6f9197ee87a91c2eda21e968ceadf98515cb99"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/attributes.pw.toml"
 hash = "f6f6097b59c2cf8cf580e45c63a3d9d4e39d8259a7162ea4713437b01083369f"
 metafile = true
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "965b3cc83e1bca99bd1b89ec5f94495d831fcf7d03317cb50891752b0ca7ddc0"
+hash = "a16963691b1e3e946156f7d8448a387fed172d1d64f90cb11a4c9d8130cbdca0"
 metafile = true
 
 [[files]]
