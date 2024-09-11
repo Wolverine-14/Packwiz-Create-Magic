@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
-hash = "efa23ff6062ef28df1983e6af3fe059ddcc514cb6f3dad4392150da548c56720"
+hash = "a0c0ebf3ab1c147a7196d98ec8eb2afb70454d0cac4ddc556478dd3aa38e8dab"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "389054afabdb4c6a618b0772ffcfb36210caf2de6302f00b67254820c66f1bba"
+hash = "ef4a689ea6a2130a4bbc292841f9c1e1823758beee2fe2ee5bf18271e32d9caf"
 metafile = true
 
 [[files]]

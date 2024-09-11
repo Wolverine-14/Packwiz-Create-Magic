@@ -1,5 +1,6 @@
 name = "HexCasting"
 filename = "hexcasting-fabric-1.20.1-0.11.1-7-pre-673.jar"
+side = "both"
 
 [download]
 url = "https://maven.blamejared.com/at/petra-k/hexcasting/hexcasting-fabric-1.20.1/0.11.1-7-pre-673/hexcasting-fabric-1.20.1-0.11.1-7-pre-673.jar"
