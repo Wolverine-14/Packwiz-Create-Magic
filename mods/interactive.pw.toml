@@ -1,0 +1,13 @@
+name = "Create: Interactive"
+filename = "create_interactive-1.0.3-beta.2+e045de2a48.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MyfCcqiE/versions/VLHAtRBQ/create_interactive-1.0.3-beta.2%2Be045de2a48.jar"
+hash-format = "sha512"
+hash = "7410be8d1b231d2a262ffb0ad644562d4d6fe328a95b53b651e32a0feb8a3dea8a8bce6097084e6494c9f4f60dbe1597a70d36906a361218d45f6a07d8bc56c8"
+
+[update]
+[update.modrinth]
+mod-id = "MyfCcqiE"
+version = "VLHAtRBQ"
