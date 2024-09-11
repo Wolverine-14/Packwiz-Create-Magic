@@ -316,6 +316,11 @@ hash = "19cf66d9ee26f44a0314c3175deb030f5427823f77ac0470e547966ef9f306ae"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "c32210e2e879228fcf4b9b7c459076db36b0ab0c06008919921676dd3208b882"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api-fabric.pw.toml"
 hash = "69ffae60381e09911815fb8f46af8300ddf3a06c00a312acd5b2494b47376274"
 metafile = true
