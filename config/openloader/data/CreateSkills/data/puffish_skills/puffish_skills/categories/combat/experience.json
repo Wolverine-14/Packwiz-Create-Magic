@@ -7,36 +7,36 @@
 	},
 	"sources": [
         {
-            "type": "puffish_skills:increase_stat",
+            "type": "puffish_skills:kill_entity",
             "data": {
                 "variables": {
-                    "is_swim": {
+                    "dropped_xp": {
                         "operations": [
                             {
-                                "type": "get_stat"
-                            },
-                            {
-                                "type": "puffish_skills:test",
-                                "data": {
-                                    "stat": "minecraft.custom:minecraft.swim_one_cm"
-                                }
+                                "type": "get_dropped_experience"
                             }
                         ]
                     },
-                    "amount": {
+                    "max_health": {
                         "operations": [
                             {
-                                "type": "get_increase_amount"
+                                "type": "get_killed_living_entity"
+                            },
+                            {
+                                "type": "get_max_health"
                             }
                         ]
                     }
                 },
                 "experience": [
                     {
-                        "condition": "is_swim",
-                        "expression": "amount"
+                        "expression": "dropped_xp + max_health / 20"
                     }
-                ]
+                ],
+                "anti_farming": {
+                    "limit_per_chunk": 15,
+                    "reset_after_seconds": 300
+                }
             }
         }
 	]

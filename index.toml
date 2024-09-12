@@ -14,7 +14,7 @@ hash = "6e780e5f9d6050818dcee8d96ac0d0bddc17ab58839c16c1e2ec972821f7a259"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/combat/experience.json"
-hash = "0d061cdad0ea95974d80f67a51ef32d1713eeae94f86255ff87796578b04da3a"
+hash = "65b538bd8ea0a9f0ecee35cbdf7d6ecbcfaf768fd85d72a101501f65b96bf657"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/combat/skills.json"
@@ -145,7 +145,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/server_scripts/test.js"
-hash = "2c596837f06385fd749deaa7058eeb8cee0325a224384344760d83f70494efc3"
+hash = "40ab1ebe1a5e197573bfe3fbe9a9195ce7db0b8f256a884f69487c9a9d58dc53"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -473,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "f5e53a314a0456a1eb301628a6ba4ddde79bb6610f3a204c48ebec5c864918c7"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "81bd6dbe339bd8eff731595e86be456e59c0de4d1382cee6593d557070a24436"
 metafile = true
 
 [[files]]
