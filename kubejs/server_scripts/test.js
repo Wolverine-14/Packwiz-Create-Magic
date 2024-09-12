@@ -17,9 +17,11 @@ ServerEvents.tags('item', event => {
 */
 
 ServerEvents.recipes(e => {
-  //for(const fluid of )
-  //e.recipes.create.filling(Item.of('tconstruct:pick_head', '{Material:"tconstruct:iron"}'), [Fluid.of('molten_metals:molten_iron',200), '#tconstruct:casts/single_use/pick_head'])
-  e.recipes.create.filling(Item.of('tconstruct:pick_head', '{Material:"tconstruct:iron"}'), [Ingredient.of('#c:molten_iron',200), '#tconstruct:casts/single_use/pick_head'])
+  const molten_iron = e.get("c:molten_iron").getObjectIds()
+  for(const fluid of molten_iron){
+    console.info(fluid)
+  }
+  e.recipes.create.filling(Item.of('tconstruct:pick_head', '{Material:"tconstruct:iron"}'), [Fluid.of('molten_metals:molten_iron', FluidAmounts.INGOT), '#tconstruct:casts/single_use/pick_head'])
   e.recipes.create.filling(Item.of('tconstruct:pick_head', '{Material:"tconstruct:copper"}'), [Fluid.of('molten_metals:molten_copper'), '#tconstruct:casts/single_use/pick_head'])
   e.recipes.create.filling(Item.of('tconstruct:pick_head', '{Material:"tconstruct:gold"}'), [Fluid.of('molten_metals:molten_gold'), '#tconstruct:casts/single_use/pick_head'])
 })
