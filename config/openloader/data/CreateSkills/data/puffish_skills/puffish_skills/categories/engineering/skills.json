@@ -3,6 +3,6 @@
 		"definition": "createGoggles",
 		"x": -36.95041722813605,
 		"y": 0,
-		"root": false
+		"root": true
 	}
 }
