@@ -30,11 +30,11 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/engineering/definitions.json"
-hash = "6e780e5f9d6050818dcee8d96ac0d0bddc17ab58839c16c1e2ec972821f7a259"
+hash = "a20643e7da3e7b4d8fe44a5fa69d8db7625932191d9b494fac3c8e5c16a7c2c4"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/engineering/esperience.json"
-hash = "0d061cdad0ea95974d80f67a51ef32d1713eeae94f86255ff87796578b04da3a"
+hash = "692af56259fe5e7773df34a03b7764c484ba99d03b5b279ef7c4a09cd030159e"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/engineering/skills.json"

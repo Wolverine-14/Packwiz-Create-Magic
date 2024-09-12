@@ -10,7 +10,7 @@
             "type": "puffish_skills:increase_stat",
             "data": {
                 "variables": {
-                    "is_swim": {
+                    "is_jump": {
                         "operations": [
                             {
                                 "type": "get_stat"
@@ -18,23 +18,16 @@
                             {
                                 "type": "puffish_skills:test",
                                 "data": {
-                                    "stat": "minecraft.custom:minecraft.swim_one_cm"
+                                    "stat": "minecraft.custom:minecraft.jump"
                                 }
-                            }
-                        ]
-                    },
-                    "amount": {
-                        "operations": [
-                            {
-                                "type": "get_increase_amount"
                             }
                         ]
                     }
                 },
                 "experience": [
                     {
-                        "condition": "is_swim",
-                        "expression": "amount"
+                        "condition": "is_jump",
+                        "expression": "5"
                     }
                 ]
             }

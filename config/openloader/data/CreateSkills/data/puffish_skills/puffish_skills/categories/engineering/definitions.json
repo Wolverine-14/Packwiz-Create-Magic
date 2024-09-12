@@ -10,11 +10,10 @@
 		},
 		"rewards": [
 			{
-				"type": "puffish_skills:attribute",
+				"type": "puffish_skills:command",
 				"data": {
-					"attribute": "generic.max_health",
-					"value": 2,
-					"operation": "addition"
+					"unlock_command": "power grant @s createorigins:goggles",
+					"lock_command": "power remove @s createorigins:goggles"
 				}
 			}
 		]
