@@ -10,9 +10,9 @@ ServerEvents.tags('fluid', event => {
   event.add('tconstruct:molten_copper', 'molten_metals:molten_copper');
   event.add('c:molten_gold', 'molten_metals:molten_gold');
   event.add('tconstruct:molten_gold', 'molten_metals:molten_gold');
-  molten_iron = e.get("c:molten_iron").getObjectIds();
-  molten_gold = e.get("c:molten_gold").getObjectIds();
-  molten_copper = e.get("c:molten_copper").getObjectIds();
+  molten_iron = event.get("c:molten_iron").getObjectIds();
+  molten_gold = event.get("c:molten_gold").getObjectIds();
+  molten_copper = event.get("c:molten_copper").getObjectIds();
 })
 /*
 ServerEvents.tags('item', event => {
