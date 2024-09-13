@@ -145,11 +145,16 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/server_scripts/test.js"
-hash = "0209a1b0d9dcbc0745bfa99d1a17aba90e4a09e18581cff28fd8dabfedd5c6b6"
+hash = "66eeefcc03859e156aa1edec9f42c7dd8c75f5aeb2c65732eb1ffd2858ce1af2"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "mods/additionalentityattributes.pw.toml"
+hash = "ee1b3d8e282abfa34c3ef3092d5fb6b787af1c39dba02bd5b8d27a5c56952017"
+metafile = true
 
 [[files]]
 file = "mods/advancementsfullscreen.pw.toml"

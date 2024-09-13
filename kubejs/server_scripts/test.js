@@ -16,6 +16,9 @@ ServerEvents.tags('fluid', event => {
   molten_iron = event.get("c:molten_iron").getObjectIds();
   molten_gold = event.get("c:molten_gold").getObjectIds();
   molten_copper = event.get("c:molten_copper").getObjectIds();
+})
+
+ServerEvents.tags('item', event => {
   molds = event.get('tconstruct:casts/single_use').getObjectIds();
 })
 
@@ -46,12 +49,24 @@ ServerEvents.recipes(e => {
     /*
     for(const material of tcMaterials){
       if(mold.includes('_red_sand_cast')){
-        e.recipes.create.compacting([mold, Item.of(mold.replace('_red_sand_cast',''), '{Material:"tconstruct:' + material + '"}')], ['red_sand', Item.withNBT(mold.replace('_red_sand_cast',''), '{Material:"tconstruct:' + material + '"}')]);
+        e.recipes.create.compacting([mold, Item.of(mold.toString().replace('_red_sand_cast',''), '{Material:"tconstruct:' + material + '"}')], ['red_sand', Item.withNBT(mold.toString().replace('_red_sand_cast',''), '{Material:"tconstruct:' + material + '"}')]);
       } else {
-        e.recipes.create.compacting([mold, Item.of(mold.replace('_sand_cast',''), '{Material:"tconstruct:' + material + '"}')], ['sand', Item.withNBT(mold.replace('_sand_cast',''), '{Material:"tconstruct:' + material + '"}')]);
+        e.recipes.create.compacting([mold, Item.of(mold.toString().replace('_sand_cast',''), '{Material:"tconstruct:' + material + '"}')], ['sand', Item.withNBT(mold.toString().replace('_sand_cast',''), '{Material:"tconstruct:' + material + '"}')]);
       }
     }
     */
-    e.recipes.create.compacting(mold, ['sand', mold.replace('_sand_cast','')]).keepIngredient(mold.replace('_sand_cast',''));
+    //e.recipes.create.compacting(mold, ['sand', mold.toString().replace('_sand_cast','')]).keepIngredient(mold.toString().replace('_sand_cast',''));
+    e.custom({
+      type: 'create:compacting',
+      ingredients: [
+        Item.of(mold.toString().replace('_sand_cast',''), '{Material:"tconstruct:wood"}').toJson(),
+        Ingredient.of('sand').toJson()
+      ],
+      results: [
+        mold.toResultJson(),
+        Item.of(mold.toString().replace('_sand_cast',''), '{Material:"tconstruct:wood"}').toResultJson()
+      ],
+      processingTime: 100
+    })
   }
 })
