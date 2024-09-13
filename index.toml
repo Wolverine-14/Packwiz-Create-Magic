@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/antique-atlas.toml"
+hash = "d48a087229c1b4e5163643d9254b2cface29106517873f77c79b2960097d095b"
+
+[[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/combat/category.json"
 hash = "015664e7319121b0aea46ab35e94f5043aa074ba9c4313333697c309353ab090"
 
@@ -124,6 +128,10 @@ hash = "7ddba10340c622336e7fbcd6ed7d45b5e865153d46aeef6db670d84e146a7e2a"
 metafile = true
 
 [[files]]
+file = "config/survivalisland.json"
+hash = "9643f1a241418a440104c85d60d26cf7208b505d787813bbd6abbe1c841d7c18"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -145,7 +153,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/server_scripts/test.js"
-hash = "9899b33cd0eb81081268af186ebc7b664ad23ddb7faa7e71547141ce9bcfe731"
+hash = "c8eff70b182edc0881d0b25465d15033473021945cff630f9bf45d4df37338e7"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -159,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/advancementsfullscreen.pw.toml"
 hash = "1a9860ee8bdd72d3e11c322f8f6f9197ee87a91c2eda21e968ceadf98515cb99"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "b3ba802d334b45082f951a9ca97c08d25aa72ba8e09fd78697ce504667684801"
 metafile = true
 
 [[files]]
@@ -411,6 +424,11 @@ hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "e9aabc3f7f33eb0fd1b31ad33e188feb1a65dce5531b141fa988ec9fbade0146"
+metafile = true
+
+[[files]]
 file = "mods/merlingsgrace.pw.toml"
 hash = "74f5c86f67819e65c94a86f2dfa64b9e6ce0af6315d35181c7ec4611674ab3da"
 metafile = true
@@ -431,8 +449,8 @@ hash = "e64bfc85a5ae26ed312619569edaf4771e2fce958d34275aef77247c96fe9d5b"
 metafile = true
 
 [[files]]
-file = "mods/movement-in-gui.pw.toml"
-hash = "80dc47e11e2a839ab4933c3c719357d7aac94459fede11193adffa24636e726a"
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
 
 [[files]]
@@ -508,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "2c77d7a9c132f5e85c059331d0a5ea2435e1a6d7007e031538f08a927b2c9bad"
+metafile = true
+
+[[files]]
+file = "mods/survival-island.pw.toml"
+hash = "7ee4bfdfcdb7cbb1491149672492bbfff8070194933e45029655d730138add8b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Survival Island"
+filename = "survivalisland-0.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PCWdPYQ6/versions/vukcxLRx/survivalisland-0.2.3.jar"
+hash-format = "sha512"
+hash = "e71c0d76ad51e31f8bcd125de66ba1b19f6df9dd416213911ed88da8c7efc40fc3882ae76de4a23f84980722a3311d4e080d462e8ba84000fc33e471b9e2691e"
+
+[update]
+[update.modrinth]
+mod-id = "PCWdPYQ6"
+version = "vukcxLRx"

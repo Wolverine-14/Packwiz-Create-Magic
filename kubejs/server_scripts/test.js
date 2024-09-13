@@ -2,6 +2,7 @@ var molten_iron;
 var molten_gold;
 var molten_copper;
 var molds;
+var tcParts
 const tcMaterials = ['cobalt','darkthread','queens_slime','hepatizon','manyullyn','blazing_bone','enderslime','wood','rock','flint','bone','copper','bamboo','chorus','leather','string','phantom','rotten_flesh','iron','seared_stone','bloodbone','slimewood','necrotic_bone','scorched_stone','whitestone','ender_pearl','glass','gold','slimesteel','amethyst_bronze','nahuatl','pig_iron','rose_gold','plated_slimewood']
 
 // Listen to item tag event
@@ -20,9 +21,25 @@ ServerEvents.tags('fluid', event => {
 
 ServerEvents.tags('item', event => {
   molds = event.get('tconstruct:casts/single_use').getObjectIds();
+  tcParts = event.get('tconstruct:parts').getObjectIds()
 })
 
 ServerEvents.recipes(e => {
+  for(const part in tcParts){
+    e.forEachRecipe({ output: part.toString() }, r => {
+      /*
+      const rType = r.type.asString
+      if(r.type.includes('tconstruct:table_casting')){
+        console.info(rType)
+      }
+      */
+      console.info(r.type)
+      for(const i in r){
+        console.info(i)
+      }
+    })
+  }
+
   let casting = (output, fluidTag, fluidAmount, mold) => {
     for(const fluid of fluidTag){
       e.recipes.create.filling(output, [Fluid.of(fluid, fluidAmount), mold]);
@@ -51,7 +68,7 @@ ServerEvents.recipes(e => {
           }
         } else {
           var tag = '#'+recipe.get("tag").asString
-          console.info(tag)
+          //console.info(tag)
           if(mold.toString().includes('_red_sand_cast')){
             e.recipes.create.compacting([mold, Ingredient.of(tag)], ['red_sand', Ingredient.of(tag)]);
           } else {
