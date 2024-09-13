@@ -145,7 +145,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/server_scripts/test.js"
-hash = "56cd85f557350cbebc7b9128406477a8bcf046a2814683d07405dbc1fe237dbf"
+hash = "0209a1b0d9dcbc0745bfa99d1a17aba90e4a09e18581cff28fd8dabfedd5c6b6"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -304,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
+metafile = true
+
+[[files]]
+file = "mods/fakerlib.pw.toml"
+hash = "881eb79d04ea70ef9d2fbeed4893f2652b2452e88791cf72896c2c324552fb62"
 metafile = true
 
 [[files]]
@@ -588,6 +593,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
+metafile = true
+
+[[files]]
+file = "mods/zenith-attributes.pw.toml"
+hash = "dd3376e83becdd8d73a89f243e444d5f5ae8c0c25b995db203cbd4641b731f6b"
+metafile = true
+
+[[files]]
+file = "mods/zenith.pw.toml"
+hash = "ab681289d84b642bcb6db74a8e8343f22621c89bd84e03f18700c4c79aa9baf4"
 metafile = true
 
 [[files]]
