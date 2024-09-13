@@ -145,7 +145,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/server_scripts/test.js"
-hash = "66eeefcc03859e156aa1edec9f42c7dd8c75f5aeb2c65732eb1ffd2858ce1af2"
+hash = "9899b33cd0eb81081268af186ebc7b664ad23ddb7faa7e71547141ce9bcfe731"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"

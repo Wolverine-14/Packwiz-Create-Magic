@@ -37,36 +37,28 @@ ServerEvents.recipes(e => {
   casting(Item.of('tconstruct:broad_axe_head', '{Material:"tconstruct:iron"}'), molten_iron, FluidAmounts.INGOT*8, '#tconstruct:casts/single_use/broad_axe_head');
   casting(Item.of('tconstruct:broad_axe_head', '{Material:"tconstruct:copper"}'), molten_copper, FluidAmounts.INGOT*8, '#tconstruct:casts/single_use/broad_axe_head');
 
-  Ingredient.registerCustomIngredientAction("apply_enchantment", (itemstack, index, inventory) => {
-    let enchantment = inventory.get(inventory.find(Item.of("minecraft:enchanted_book").ignoreNBT())).nbt;
-    if (itemstack.nbt == null)
-        itemstack.nbt = {}
-    itemstack.nbt = itemstack.nbt.merge({ Enchantments: enchantment.get("StoredEnchantments") })
-    return itemstack;
-  })
-
   for(const mold of molds){
-    /*
-    for(const material of tcMaterials){
-      if(mold.includes('_red_sand_cast')){
-        e.recipes.create.compacting([mold, Item.of(mold.toString().replace('_red_sand_cast',''), '{Material:"tconstruct:' + material + '"}')], ['red_sand', Item.withNBT(mold.toString().replace('_red_sand_cast',''), '{Material:"tconstruct:' + material + '"}')]);
-      } else {
-        e.recipes.create.compacting([mold, Item.of(mold.toString().replace('_sand_cast',''), '{Material:"tconstruct:' + material + '"}')], ['sand', Item.withNBT(mold.toString().replace('_sand_cast',''), '{Material:"tconstruct:' + material + '"}')]);
+    e.forEachRecipe({ output: mold.toString() }, r => {
+      var recipe = r.json.get("pattern")
+      if(recipe != null){
+        if(recipe.get("item") != null){
+          for(const material of tcMaterials){
+            if(mold.toString().includes('_red_sand_cast')){
+              e.recipes.create.compacting([mold, Item.of(recipe.get("item"), '{Material:"tconstruct:' + material + '"}')], ['red_sand', Item.of(recipe.get("item"), '{Material:"tconstruct:' + material + '"}').strongNBT()]);
+            } else {
+              e.recipes.create.compacting([mold, Item.of(recipe.get("item"), '{Material:"tconstruct:' + material + '"}')], ['sand', Item.of(recipe.get("item"), '{Material:"tconstruct:' + material + '"}').strongNBT()]);
+            }
+          }
+        } else {
+          var tag = '#'+recipe.get("tag").asString
+          console.info(tag)
+          if(mold.toString().includes('_red_sand_cast')){
+            e.recipes.create.compacting([mold, Ingredient.of(tag)], ['red_sand', Ingredient.of(tag)]);
+          } else {
+            e.recipes.create.compacting([mold, Ingredient.of(tag)], ['sand', Ingredient.of(tag)]);
+          }
+        }
       }
-    }
-    */
-    //e.recipes.create.compacting(mold, ['sand', mold.toString().replace('_sand_cast','')]).keepIngredient(mold.toString().replace('_sand_cast',''));
-    e.custom({
-      type: 'create:compacting',
-      ingredients: [
-        Item.of(mold.toString().replace('_sand_cast',''), '{Material:"tconstruct:wood"}').toJson(),
-        Ingredient.of('sand').toJson()
-      ],
-      results: [
-        mold.toResultJson(),
-        Item.of(mold.toString().replace('_sand_cast',''), '{Material:"tconstruct:wood"}').toResultJson()
-      ],
-      processingTime: 100
     })
   }
 })
