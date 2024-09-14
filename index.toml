@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "config/survivalisland.json"
-hash = "9643f1a241418a440104c85d60d26cf7208b505d787813bbd6abbe1c841d7c18"
+hash = "1fe2eb3abca0749d0d478b5e2d20169b78479cbeb8347e9ed8beeeda742c70b3"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -153,7 +153,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/server_scripts/test.js"
-hash = "c8eff70b182edc0881d0b25465d15033473021945cff630f9bf45d4df37338e7"
+hash = "4f44929c941ed3809a54e8f911451014327f2fb098b444294e602cb524f3f346"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"

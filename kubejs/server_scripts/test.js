@@ -68,11 +68,12 @@ ServerEvents.recipes(e => {
           }
         } else {
           var tag = '#'+recipe.get("tag").asString
-          //console.info(tag)
-          if(mold.toString().includes('_red_sand_cast')){
-            e.recipes.create.compacting([mold, Ingredient.of(tag)], ['red_sand', Ingredient.of(tag)]);
-          } else {
-            e.recipes.create.compacting([mold, Ingredient.of(tag)], ['sand', Ingredient.of(tag)]);
+          for(const item of Ingredient.of(tag).itemIds){
+            if(mold.toString().includes('_red_sand_cast')){
+              e.recipes.create.compacting([mold, item], ['red_sand', item]);
+            } else {
+              e.recipes.create.compacting([mold, item], ['sand', item]);
+            }
           }
         }
       }

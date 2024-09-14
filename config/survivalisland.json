@@ -1,6 +1,6 @@
 {
   "islandSize": 256.0,
-  "islandSeperation": 1000,
+  "islandSeperation": 1500,
   "domainWarpNoise": {
     "octaves": 1,
     "horizontalFrequency": 24.0,
