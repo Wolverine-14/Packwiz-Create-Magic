@@ -524,11 +524,6 @@ hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
 metafile = true
 
 [[files]]
-file = "mods/skills.pw.toml"
-hash = "137c99ce49689e3489e93a2297aa4d05789c405f5defa4f989ac4cf7f4c81e3b"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
