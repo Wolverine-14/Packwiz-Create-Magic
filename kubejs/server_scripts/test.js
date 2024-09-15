@@ -25,34 +25,21 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes(e => {
-  for(const part in tcParts){
-    e.forEachRecipe({ output: part.toString() }, r => {
-      /*
-      const rType = r.type.asString
-      if(r.type.includes('tconstruct:table_casting')){
-        console.info(rType)
-      }
-      */
-      console.info(r.type)
-      for(const i in r){
-        console.info(i)
-      }
-    })
-  }
-
   let casting = (output, fluidTag, fluidAmount, mold) => {
     for(const fluid of fluidTag){
       e.recipes.create.filling(output, [Fluid.of(fluid, fluidAmount), mold]);
     }
   }
-  casting(Item.of('tconstruct:pick_head', '{Material:"tconstruct:iron"}'), molten_iron, FluidAmounts.INGOT*2, '#tconstruct:casts/single_use/pick_head');
-  casting(Item.of('tconstruct:pick_head', '{Material:"tconstruct:copper"}'), molten_copper, FluidAmounts.INGOT*2, '#tconstruct:casts/single_use/pick_head');
-
-  casting(Item.of('tconstruct:small_axe_head', '{Material:"tconstruct:iron"}'), molten_iron, FluidAmounts.INGOT*2, '#tconstruct:casts/single_use/small_axe_head');
-  casting(Item.of('tconstruct:small_axe_head', '{Material:"tconstruct:copper"}'), molten_copper, FluidAmounts.INGOT*2, '#tconstruct:casts/single_use/small_axe_head');
-
-  casting(Item.of('tconstruct:broad_axe_head', '{Material:"tconstruct:iron"}'), molten_iron, FluidAmounts.INGOT*8, '#tconstruct:casts/single_use/broad_axe_head');
-  casting(Item.of('tconstruct:broad_axe_head', '{Material:"tconstruct:copper"}'), molten_copper, FluidAmounts.INGOT*8, '#tconstruct:casts/single_use/broad_axe_head');
+  for(const part of tcParts){
+    console.info(part.toString())
+    e.forEachRecipe({ output: part.toString() }, r => {
+      console.info(r.json.get("type").asString)
+      if(r.json.get("type").asString == 'tconstruct:table_casting_material'){
+        casting(Item.of(part, '{Material:"tconstruct:iron"}'), molten_iron, FluidAmounts.INGOT*r.json.get('item_cost'), '#'+r.json.get('cast').get('tag').asString);
+        casting(Item.of(part, '{Material:"tconstruct:copper"}'), molten_copper, FluidAmounts.INGOT*r.json.get('item_cost'), '#'+r.json.get('cast').get('tag').asString);
+      }
+    })
+  }
 
   for(const mold of molds){
     e.forEachRecipe({ output: mold.toString() }, r => {

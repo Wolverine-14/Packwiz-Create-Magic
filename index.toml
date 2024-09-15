@@ -153,7 +153,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/server_scripts/test.js"
-hash = "4f44929c941ed3809a54e8f911451014327f2fb098b444294e602cb524f3f346"
+hash = "8357bed663686a817a146871f37c0496856fc1eac873a349cf4a929e6e6de472"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -302,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
 metafile = true
 
 [[files]]
@@ -541,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "94345083ac858447db35e1d215369945a453857bd3a9115ba904172e20c865e3"
 metafile = true
 
 [[files]]
