@@ -185,11 +185,6 @@ hash = "f6f6097b59c2cf8cf580e45c63a3d9d4e39d8259a7162ea4713437b01083369f"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "79a9adec4b54380282982c804f14fd3a185af36b71f8ecf252eb5c88fe54de9e"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
