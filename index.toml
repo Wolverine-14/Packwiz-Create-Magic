@@ -5,6 +5,10 @@ file = "config/antique-atlas.toml"
 hash = "d48a087229c1b4e5163643d9254b2cface29106517873f77c79b2960097d095b"
 
 [[files]]
+file = "config/chunky/config.json"
+hash = "8a9ec3ea3a898d8379c1398a0a557a369737b3d5af48635e71ffd0fddabc975b"
+
+[[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/combat/category.json"
 hash = "015664e7319121b0aea46ab35e94f5043aa074ba9c4313333697c309353ab090"
 
@@ -187,6 +191,16 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+metafile = true
+
+[[files]]
+file = "mods/chunky-extension.pw.toml"
+hash = "28ffbaeee6a9331f5a08458718e1b9e39127bec8dad7af8e14ec277e6b6c3837"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
 metafile = true
 
 [[files]]
