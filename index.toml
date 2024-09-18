@@ -9,6 +9,10 @@ file = "config/chunky/config.json"
 hash = "8a9ec3ea3a898d8379c1398a0a557a369737b3d5af48635e71ffd0fddabc975b"
 
 [[files]]
+file = "config/chunky/tasks/minecraft/overworld.properties"
+hash = "d9ccef457300bece21a2091e8c011f194c0bbed48608bdc2c071dee1ee0143b1"
+
+[[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/combat/category.json"
 hash = "015664e7319121b0aea46ab35e94f5043aa074ba9c4313333697c309353ab090"
 
@@ -18,7 +22,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/combat/definitions.json"
-hash = "6e780e5f9d6050818dcee8d96ac0d0bddc17ab58839c16c1e2ec972821f7a259"
+hash = "6635dd1fbaa326c630a885dac2ec7630a907494885727d5a6194d3e61071e0a3"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/combat/experience.json"
@@ -38,7 +42,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/engineering/definitions.json"
-hash = "a20643e7da3e7b4d8fe44a5fa69d8db7625932191d9b494fac3c8e5c16a7c2c4"
+hash = "c9b1536f78ceb0454f13787adb68369c031409025722af8a1b74bbf4b0a6bc14"
 
 [[files]]
 file = "config/openloader/data/CreateSkills/data/puffish_skills/puffish_skills/categories/engineering/experience.json"
@@ -229,8 +233,23 @@ hash = "14a5af2b7faa6df33e76e7b704eaa398d78a6026c5c996bc5ea13ae02e5d6b74"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "bb946d7bc570394dc3765b035c836d064ab697c6e126d1aa2d2f0db54e8e312a"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
 file = "mods/create-clockwork.pw.toml"
 hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
+metafile = true
+
+[[files]]
+file = "mods/create-coggle.pw.toml"
+hash = "809cd82a41a947fcacea4c408448e5685647e649a9ced38fe1d3cfc2962fb777"
 metafile = true
 
 [[files]]
@@ -326,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/eureka.pw.toml"
 hash = "8ea11b348e14a256d830dd40f0e1d6736d069a8cc1e0b2a6747db6256be5247f"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "e6dccf3c2514d922904488e64e6d808484771e9f48c72a275cf5b0c754c54609"
 metafile = true
 
 [[files]]
@@ -533,6 +557,16 @@ hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "539f2968d3ddc434abc40c12becaea92bea9f9373b27bd7ff75b67938a56a552"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
@@ -540,6 +574,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "2c77d7a9c132f5e85c059331d0a5ea2435e1a6d7007e031538f08a927b2c9bad"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]

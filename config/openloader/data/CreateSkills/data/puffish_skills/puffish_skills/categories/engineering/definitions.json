@@ -17,5 +17,24 @@
 				}
 			}
 		]
+	},
+	"create": {
+		"title": "Educated Eye",
+		"description": "With this you will no longer need to wear Engeneers goggles",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "create:goggles"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"unlock_command": "power grant @s createorigins:goggles",
+					"lock_command": "power remove @s createorigins:goggles"
+				}
+			}
+		]
 	}
 }
