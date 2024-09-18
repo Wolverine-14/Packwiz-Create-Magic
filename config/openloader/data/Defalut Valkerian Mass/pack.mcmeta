@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "supported_formats": {
+      "min_inclusive": 6,
+      "max_inclusive": 15
+    },
+    "description": "An example datapack to change block weights, change it how you want but make sure to replace the examples. It only affects blue ice, grass blocks, and glass"
+  }
+}

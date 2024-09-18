@@ -101,6 +101,58 @@ file = "config/openloader/data/CreateSkills/pack.mcmeta"
 hash = "d0ac8dbfa1ce4278422b1753a57fdbc1cd886da0c82c446d720f8dcf0c2aacd2"
 
 [[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/1_18_blocks.json"
+hash = "195cc2e63b1611f2071b8f7bd19ea0832505e60a4284c5c486c0b22fe24bd9d0"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/1_19_block.json"
+hash = "d0d2f4746da75ff9144c6da2c775f11fe8e5b51e9f003988937451f5ca7001a9"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/1_20_blocks.json"
+hash = "9329485c6ee1d73684659a3398ceb683e6cd99bb7516ba774e772f308d61e48e"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/computercraft.json"
+hash = "348e1a97ccb0ddedcb5349e564033ee230c9b4701e3db4a2179b1cef4f5de8e3"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/crafting_stations.json"
+hash = "3f4dabe8a45c0e64505b904e804ae4f8758e79aaa04895ee456fb2c46dde1c96"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/ground.json"
+hash = "f892af3c3b1b43e835d748f1e40ba3bb623cf8a7699fdf1f9f2f95fce80d081e"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/masonry.json"
+hash = "dbf1a8464d21bab47604f1331b6b8b86d54196afa4d1684ab27554c4e7d13498"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/misc.json"
+hash = "60083e5e4eb89e510dfdac32bb75e3b038a6410dbdd83eeefb1c7ae6ce62e086"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/plants.json"
+hash = "fbe230400f09a58f1fdf21203ac785d6d83246c4f48d736be31ec186db1c6eb2"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/redstone_components.json"
+hash = "d7cab659238fe7ea6e5cdf43012aa0be9f063043b93df7427f557bcf3930cc1c"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/steelarmorblocks.json"
+hash = "de6806ba50612d62bedd18fd7a07accd00e5513c2c099b6969b01fac73fc7fc8"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/data/example_datapack/vs_mass/wood.json"
+hash = "d888018b86356b251b83e13b7213ef220781d5fe831f1e3f1656b2273ad6172e"
+
+[[files]]
+file = "config/openloader/data/Defalut Valkerian Mass/pack.mcmeta"
+hash = "63599232afb1d7622e27431328be6de43d7409ecbadf6f00575d921b7e1a70a4"
+
+[[files]]
 file = "config/openloader/resources/barebones-bossbars.pw.toml"
 hash = "6d7687af164d78748a6b8084cb4e1d374575f43d95976528576720f95fc4d191"
 metafile = true
