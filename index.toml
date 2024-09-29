@@ -390,6 +390,11 @@ hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-lore.pw.toml"
+hash = "a69a3c3a2f41e3528e77f0af67a3dd98a470c779f6808c54b1df80aede6ed3c3"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
 metafile = true
@@ -624,6 +629,11 @@ hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
 
 [[files]]
+file = "mods/soulbound-enchantment.pw.toml"
+hash = "a9caaa1f782105a9c245fbb5bc0c3f1fcc09ee9ed61c155340e25e666bb4f8ed"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "2c77d7a9c132f5e85c059331d0a5ea2435e1a6d7007e031538f08a927b2c9bad"
 metafile = true
@@ -742,6 +752,18 @@ metafile = true
 file = "mods/zenith.pw.toml"
 hash = "ab681289d84b642bcb6db74a8e8343f22621c89bd84e03f18700c4c79aa9baf4"
 metafile = true
+
+[[files]]
+file = "patchouli_books/create_magic/book.json"
+hash = "20f820c4510b6c38c35ec5c6b78d272d463d054a6a537def6ec02e47a887bfc4"
+
+[[files]]
+file = "patchouli_books/create_magic/en_us/categories/test_category.json"
+hash = "530b15146c08927e8516cc51415075ff7326c742215be12f5c8b995d34466659"
+
+[[files]]
+file = "patchouli_books/create_magic/en_us/entries/test/test_entry.json"
+hash = "df5b6a125c6c64c9a9fbc6ed898f3d58fe79d1da2ae47b6dd85883ad372e487c"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
