@@ -25,12 +25,12 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes(e => {
-
-  e.recipes.create.mixing('gilded_blackstone',['#c:blackstone','#c:gold_ingots']).heated()
-  e.recipes.create.mixing(['ancient_debris', 'ancient_debris', Item.of('ancient_debris').withChance(0.05)], ['gilded_blackstone', 'gilded_blackstone', '#c:netherrack', '#c:netherrack', '#c:basalt', '#c:basalt', 'ancient_debris', 'ancient_debris', Fluid.of('lava', FluidAmounts.B*5)]).superheated()
-  e.recipes.create.filling('netherrack', [Fluid.of('water', FluidAmounts.MB*12), 'magma_block'])
-  e.recipes.create.filling('magma_block', [Fluid.of('lava', FluidAmounts.MB*6), '#c:blackstone'])
-
+  e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.INGOT),'minecraft:clay_ball').heated()
+  e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.INGOT),'minecraft:brick').heated()
+  e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.INGOT*2),'minecraft:brick_slab').heated()
+  e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.INGOT*3),'minecraft:flower_pot').heated()
+  e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.B),'minecraft:clay').heated()
+  e.recipes.create.filling('tconstruct:seared_stone', [Fluid.of('tconstruct:molten_clay', FluidAmounts.B*0.5), '#c:stone'])
 
   let casting = (output, fluidTag, fluidAmount, mold) => {
     for(const fluid of fluidTag){

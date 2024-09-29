@@ -212,8 +212,16 @@ file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
-file = "kubejs/server_scripts/test.js"
-hash = "8b6c0fe98534bbb6b142941be902e42adae369f68865a5742bda3b24ced99d6a"
+file = "kubejs/server_scripts/RenewableNetherite.js"
+hash = "f24b779d4a13115cfbdf4f7beec733cea75a9ac00adfa24716f386ee03bb030e"
+
+[[files]]
+file = "kubejs/server_scripts/TConstruct.js"
+hash = "3b108d9aef1a53083a29f45e7ac7215467e589f2b343c32fdc24936475703499"
+
+[[files]]
+file = "kubejs/server_scripts/TinyCoal.js"
+hash = "f13ed7a3cc294e6846dee6b8f0f8b29a357f740e909d5bb2332ff29331a7dc78"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -338,6 +346,10 @@ metafile = true
 file = "mods/create-utilities.pw.toml"
 hash = "9ccef182f9ef60d4dd5e093430c372098b45809d0468aedda6e43011a9c89b87"
 metafile = true
+
+[[files]]
+file = "mods/create_connected-0.7.4-mc1.20.1+FABRIC+HOTFIX.jar"
+hash = "cdb63093bae05f9510f773c5d3a3ceb82c56c18b6be5b9a02899d9a54dee67ec"
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
@@ -646,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/survival-island.pw.toml"
 hash = "7ee4bfdfcdb7cbb1491149672492bbfff8070194933e45029655d730138add8b"
+metafile = true
+
+[[files]]
+file = "mods/tiny-coal.pw.toml"
+hash = "c9f029f9194bfb941ca5097017466d158356f509b225e5d7940f1a9b96c99e8c"
 metafile = true
 
 [[files]]
