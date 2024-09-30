@@ -1,0 +1,13 @@
+name = "Inline"
+filename = "inline-fabric-1.20.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fin1PX4m/versions/fBoxabC2/inline-fabric-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "4aeaa1f6f2fc7de04f220ce5de57e76cd97f5a8b9eed2d7a0137e3d3d25cf21c25988e2609f72b308521fe813e4e01ec3d666891f404c6a2ed6c4db1cf570266"
+
+[update]
+[update.modrinth]
+mod-id = "fin1PX4m"
+version = "fBoxabC2"

@@ -228,6 +228,10 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
+file = "mods/Hexcasting.jar"
+hash = "40b701215b4b49b238e3e4fff4cafc5052a3556145c1dcc490f0b26ccc056cb4"
+
+[[files]]
 file = "mods/additionalentityattributes.pw.toml"
 hash = "ee1b3d8e282abfa34c3ef3092d5fb6b787af1c39dba02bd5b8d27a5c56952017"
 metafile = true
@@ -467,11 +471,6 @@ hash = "eb5a10db592e335298fe677285335430ba54695ec918fa895ebe95878206c2c7"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "8d8d38321423c25f8d16f3af19814882bf16a3f03606c27bb59815de41c4b7fb"
-metafile = true
-
-[[files]]
 file = "mods/hexsky.pw.toml"
 hash = "aa06af94a7c46be239d3fd13f86616af00d7f2a7fadd2774810e5b9965507adc"
 metafile = true
@@ -479,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "2dc00b26e79a965483b093bf79b0364575c798aab345dfdca4d8e8bf6e6182fe"
 metafile = true
 
 [[files]]
