@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "2dc00b26e79a965483b093bf79b0364575c798aab345dfdca4d8e8bf6e6182fe"
+hash = "28b2b69062dc1b234ec91cb4cf3d19c6c77f0e0a1b22d4a001e3ab30a744163e"
 metafile = true
 
 [[files]]
