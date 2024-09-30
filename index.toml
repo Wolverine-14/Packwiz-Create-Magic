@@ -308,11 +308,6 @@ hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
 metafile = true
 
 [[files]]
-file = "mods/create-coggle.pw.toml"
-hash = "809cd82a41a947fcacea4c408448e5685647e649a9ced38fe1d3cfc2962fb777"
-metafile = true
-
-[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "2b59237de53c179aa6906a3ef1335922025e9ce922402a49e33dc78e1a954a6d"
 metafile = true
