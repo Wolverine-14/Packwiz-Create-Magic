@@ -212,16 +212,8 @@ file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
-file = "kubejs/server_scripts/RenewableNetherite.js"
-hash = "f24b779d4a13115cfbdf4f7beec733cea75a9ac00adfa24716f386ee03bb030e"
-
-[[files]]
-file = "kubejs/server_scripts/TConstruct.js"
-hash = "3b108d9aef1a53083a29f45e7ac7215467e589f2b343c32fdc24936475703499"
-
-[[files]]
-file = "kubejs/server_scripts/TinyCoal.js"
-hash = "f13ed7a3cc294e6846dee6b8f0f8b29a357f740e909d5bb2332ff29331a7dc78"
+file = "kubejs/server_scripts/CustomRecipies.js"
+hash = "f6af024f0e21baa3ccb12206531139e2ec1814bfe71b4db89466ea06be6cbf5e"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"

@@ -24,7 +24,18 @@ ServerEvents.tags('item', event => {
   tcParts = event.get('tconstruct:parts').getObjectIds()
 })
 
-ServerEvents.recipes(e => {
+ServerEvents.recipes(e => { 
+
+ 
+  e.remove({output: '#c:coal_nuggets'})
+  e.recipes.create.crushing(Item.of('tinycoal:tinycoal',8), 'minecraft:coal')
+  e.recipes.create.crushing(Item.of('tinycoal:tinycharcoal',8), 'minecraft:charcoal')
+
+  e.recipes.create.mixing('gilded_blackstone',['#c:blackstone','#c:gold_ingots']).heated()
+  e.recipes.create.mixing(['ancient_debris', 'ancient_debris', Item.of('ancient_debris').withChance(0.05)], ['gilded_blackstone', 'gilded_blackstone', '#c:netherrack', '#c:netherrack', '#c:basalt', '#c:basalt', 'ancient_debris', 'ancient_debris', Fluid.of('lava', FluidAmounts.B*5)]).superheated()
+  e.recipes.create.filling('netherrack', [Fluid.of('water', FluidAmounts.MB*12), 'magma_block'])
+  e.recipes.create.filling('magma_block', [Fluid.of('lava', FluidAmounts.MB*6), '#c:blackstone'])
+    
   e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.INGOT),'minecraft:clay_ball').heated()
   e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.INGOT),'minecraft:brick').heated()
   e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.INGOT*2),'minecraft:brick_slab').heated()
