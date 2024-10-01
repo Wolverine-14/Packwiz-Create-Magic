@@ -677,6 +677,11 @@ hash = "f3b62c8bd55a5751bb5d885598eadefb6ac6ee629384f41ef08692f55bc23142"
 metafile = true
 
 [[files]]
+file = "mods/vmod.pw.toml"
+hash = "d7feaae0c7ba735bb06a164eb7e93c3bd3fcb169d7ca409f592ffabf55c32f52"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c32210e2e879228fcf4b9b7c459076db36b0ab0c06008919921676dd3208b882"
 metafile = true
