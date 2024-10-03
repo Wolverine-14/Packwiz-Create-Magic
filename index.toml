@@ -153,6 +153,22 @@ file = "config/openloader/data/Defalut Valkerian Mass/pack.mcmeta"
 hash = "63599232afb1d7622e27431328be6de43d7409ecbadf6f00575d921b7e1a70a4"
 
 [[files]]
+file = "config/openloader/data/InformationTrinkets/data/trinkets/entities/enable_slots.json"
+hash = "8b6a76a52fd97196f9fc199c3e1d45885aec16421fd3f233739954f8214b7588"
+
+[[files]]
+file = "config/openloader/data/InformationTrinkets/data/trinkets/slots/head/information.json"
+hash = "1602387ac44b4f168f052d17992b13275d095da4586a323f798b71e50d2702c4"
+
+[[files]]
+file = "config/openloader/data/InformationTrinkets/data/trinkets/tags/items/head/information.json"
+hash = "ef61d8078ffc4f3bbbef3fbb5b432ed02d568f772231015e95f4a1ffeee80640"
+
+[[files]]
+file = "config/openloader/data/InformationTrinkets/pack.mcmeta"
+hash = "ebb74be8181cf20e1372c321643060060399df1209a6307d4b59aa4693f46066"
+
+[[files]]
 file = "config/openloader/resources/barebones-bossbars.pw.toml"
 hash = "6d7687af164d78748a6b8084cb4e1d374575f43d95976528576720f95fc4d191"
 metafile = true
@@ -166,6 +182,34 @@ metafile = true
 file = "config/openloader/resources/even-better-enchants.pw.toml"
 hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
 metafile = true
+
+[[files]]
+file = "config/openloader/resources/info slot/assets/trinkets/lang/en_au.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/openloader/resources/info slot/assets/trinkets/lang/en_ca.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/openloader/resources/info slot/assets/trinkets/lang/en_gb.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/openloader/resources/info slot/assets/trinkets/lang/en_nz.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/openloader/resources/info slot/assets/trinkets/lang/en_us.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/openloader/resources/info slot/assets/trinkets/textures/gui/slots/information.png"
+hash = "de9cf3470feefbe80c904591f81e797349583d6a3030cc937f7e63231a874f6c"
+
+[[files]]
+file = "config/openloader/resources/info slot/pack.mcmeta"
+hash = "b7fb8bdc9be0349564d9b2fa221f9f5a2e421178d4f24c896d4e8138885899a8"
 
 [[files]]
 file = "config/openloader/resources/toms-create-storage.pw.toml"
@@ -345,6 +389,11 @@ hash = "cdb63093bae05f9510f773c5d3a3ceb82c56c18b6be5b9a02899d9a54dee67ec"
 [[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "a0c0ebf3ab1c147a7196d98ec8eb2afb70454d0cac4ddc556478dd3aa38e8dab"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "0861c5ad1792cc0909f5b0d034172141abda591a8da4c933f4d904bae2ea48c6"
 metafile = true
 
 [[files]]
