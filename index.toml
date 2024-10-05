@@ -256,8 +256,12 @@ file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
+file = "kubejs/config/common.properties"
+hash = "89ab837bcecae7bc2fd4f21999c438cb33ec6a1031c5c4c6e0b3c303439eed3e"
+
+[[files]]
 file = "kubejs/server_scripts/CustomRecipies.js"
-hash = "f6af024f0e21baa3ccb12206531139e2ec1814bfe71b4db89466ea06be6cbf5e"
+hash = "44834f0b01ee5da75b01cb028f868f90ff0a7dc3bbad7fb8e12054a41823296c"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -568,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "1f5ae1f4f54dc839782958176ee8c5151515d6163a89fcff2b1bce5576619e8f"
 metafile = true
 
 [[files]]

@@ -25,7 +25,6 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes(e => { 
-
  
   e.remove({output: '#c:coal_nuggets'})
   e.recipes.create.crushing(Item.of('tinycoal:tinycoal',8), 'minecraft:coal')
@@ -85,3 +84,9 @@ ServerEvents.recipes(e => {
     })
   }
 })
+
+LootJS.modifiers((event) => {
+  event.addLootTableModifier('betterdeserttemples:chests/pharaoh_hidden').randomChance(0.25).addLoot('endrem:old_eye');
+  //event.addLootTableModifier('betterdeserttemples:chests/library').randomChance(0.).addLoot(LootEntry.of('hexcasting:scroll').addNBT('{op_id:"hexal:wisp/consume"}'));
+  //event.addLootTableModifier('betterdeserttemples:chests/pharaoh_hidden').randomChance(0.5).addLoot('hexcasting:scroll');
+});
