@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/actuallyunbreaking.json"
+hash = "6b3afef1a8c8d715810ba78b34d6d052a797a0d3e624c41a0f06978867446997"
+
+[[files]]
 file = "config/antique-atlas.toml"
 hash = "d48a087229c1b4e5163643d9254b2cface29106517873f77c79b2960097d095b"
 
@@ -272,6 +276,11 @@ file = "mods/Hexcasting.jar"
 hash = "40b701215b4b49b238e3e4fff4cafc5052a3556145c1dcc490f0b26ccc056cb4"
 
 [[files]]
+file = "mods/actually-unbreaking.pw.toml"
+hash = "15889fa067f966fed4c61503548ef7657a9c195e4402acbb1d67f2090ce784cc"
+metafile = true
+
+[[files]]
 file = "mods/additionalentityattributes.pw.toml"
 hash = "ee1b3d8e282abfa34c3ef3092d5fb6b787af1c39dba02bd5b8d27a5c56952017"
 metafile = true
@@ -354,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "2b59237de53c179aa6906a3ef1335922025e9ce922402a49e33dc78e1a954a6d"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "fd2c9cdc0083b93038ce74132c66078e8e223722c4fae902ba4bfef28c37ed71"
 metafile = true
 
 [[files]]

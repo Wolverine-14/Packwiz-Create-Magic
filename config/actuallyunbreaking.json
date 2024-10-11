@@ -1,0 +1,9 @@
+{
+  "maxLevelOnly": false,
+  "useUnbreakableAtLevel": true,
+  "unbreakableAtLevel": 5,
+  "useOnlyUnbreakableAtLevel": false,
+  "onlyUnbreakableAtLevel": 5,
+  "mendingIncompatibility": true,
+  "useUnbreakableTag": true
+}
