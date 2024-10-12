@@ -540,11 +540,6 @@ hash = "28b2b69062dc1b234ec91cb4cf3d19c6c77f0e0a1b22d4a001e3ab30a744163e"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "a12098d8857d693e514cca569eb529020a9b0fdc04e1a9ce4fcd5bd4a5fc1ea8"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "d05c119ff625fc2e717e132de26c02c8c3385e2224c583044a9d83e274d9f9cd"
 metafile = true
