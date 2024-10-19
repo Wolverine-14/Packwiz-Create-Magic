@@ -35,7 +35,7 @@ ServerEvents.recipes(e => {
   e.recipes.create.filling('netherrack', [Fluid.of('water', FluidAmounts.MB*12), 'magma_block'])
   e.recipes.create.filling('magma_block', [Fluid.of('lava', FluidAmounts.MB*6), '#c:blackstone'])
   e.shapeless('tuff', [
-    '#c:cobblestone',
+    '#c:andesite',
     '#c:diorite'
   ])
     
