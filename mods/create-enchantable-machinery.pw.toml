@@ -1,0 +1,13 @@
+name = "Create: Enchantable Machinery"
+filename = "createenchantablemachinery-fabric-2.8.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eqrvp4NK/versions/4dlfF8le/createenchantablemachinery-fabric-2.8.5-1.20.1.jar"
+hash-format = "sha512"
+hash = "8607cd307c0777110fd7cef612e5955872180b9903b4b19509409c23f62dacf751c0d9593f1ea96d2a29a14d3189503d57bcfd1c42c3d299e5449c505ea2dd55"
+
+[update]
+[update.modrinth]
+mod-id = "eqrvp4NK"
+version = "4dlfF8le"
