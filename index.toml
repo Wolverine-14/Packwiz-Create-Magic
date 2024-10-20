@@ -396,6 +396,11 @@ hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "6ab4642e631a4c839ffb91e55a123f734419380deb10208914c8ebea196a2bf6"
+metafile = true
+
+[[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "9ccef182f9ef60d4dd5e093430c372098b45809d0468aedda6e43011a9c89b87"
 metafile = true
