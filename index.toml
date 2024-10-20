@@ -265,7 +265,7 @@ hash = "89ab837bcecae7bc2fd4f21999c438cb33ec6a1031c5c4c6e0b3c303439eed3e"
 
 [[files]]
 file = "kubejs/server_scripts/CustomRecipies.js"
-hash = "610c6fae22bfe8079817f15da5fb01b8719bb0c529cab91c811835748b91014c"
+hash = "8443f70f92d514042da59db963b31e0f41c1e3c163c24c366a21bffe391d4624"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"

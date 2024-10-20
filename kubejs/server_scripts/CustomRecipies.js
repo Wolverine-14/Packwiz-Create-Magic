@@ -38,6 +38,7 @@ ServerEvents.recipes(e => {
     '#c:andesite',
     '#c:diorite'
   ])
+  e.recipes.create.mixing('diorite',['cobblestone','#c:quartz'])
     
   e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.INGOT),'minecraft:clay_ball').heated()
   e.recipes.create.mixing(Fluid.of('tconstruct:molten_clay', FluidAmounts.INGOT),'minecraft:brick').heated()
