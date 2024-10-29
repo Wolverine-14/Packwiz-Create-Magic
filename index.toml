@@ -272,10 +272,6 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
-file = "mods/Hexcasting.jar"
-hash = "40b701215b4b49b238e3e4fff4cafc5052a3556145c1dcc490f0b26ccc056cb4"
-
-[[files]]
 file = "mods/actually-unbreaking.pw.toml"
 hash = "15889fa067f966fed4c61503548ef7657a9c195e4402acbb1d67f2090ce784cc"
 metafile = true
@@ -532,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/hexal.pw.toml"
 hash = "eb5a10db592e335298fe677285335430ba54695ec918fa895ebe95878206c2c7"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "98f9f964a40a17dfb7d29d1c1fff78990ce3e16cd770241f71a64525c79fc973"
 metafile = true
 
 [[files]]
