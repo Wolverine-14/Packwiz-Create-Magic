@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "87e980609f4071e12f1f6ba88fc3209c707f5b07fb0d8327bdffaa208f596409"
+hash = "999898de55bf75c6ca35908cbecf65947fb3cc2caf42e5a21b0ef0a9775b9c2c"
 metafile = true
 
 [[files]]
@@ -357,6 +357,11 @@ hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
 metafile = true
 
 [[files]]
+file = "mods/create-connected-fabric.pw.toml"
+hash = "68f1f763b3505a7765b431395c67c169f5f7ec59eca8eab2b46f5ce2397d0816"
+metafile = true
+
+[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "2b59237de53c179aa6906a3ef1335922025e9ce922402a49e33dc78e1a954a6d"
 metafile = true
@@ -393,17 +398,13 @@ metafile = true
 
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
-hash = "6ab4642e631a4c839ffb91e55a123f734419380deb10208914c8ebea196a2bf6"
+hash = "b395e97049078694e84b987cb11a6023f1a2fc063e8c940eb4af38f317a3818d"
 metafile = true
 
 [[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "9ccef182f9ef60d4dd5e093430c372098b45809d0468aedda6e43011a9c89b87"
 metafile = true
-
-[[files]]
-file = "mods/create_connected-0.7.4-mc1.20.1+FABRIC+HOTFIX.jar"
-hash = "cdb63093bae05f9510f773c5d3a3ceb82c56c18b6be5b9a02899d9a54dee67ec"
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
@@ -427,22 +428,22 @@ metafile = true
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
-hash = "348f14390acace02bafc6b22849a8f33aa193a8ccd9165a9f2703ed32b0bd7fe"
+hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "5816206c6e1eade384b14425ce2b419e34370b6a4507afc5da8bf8ecabc2574c"
+hash = "8a00200ec79aafee5e76277e11327cba6858b4ccf3f6ca18a99ee9e5d3287f42"
 metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "74263060eb99d544ddf90231cfb213e33078c33bb82ed7fb308916047107ab1c"
+hash = "98b451923061165eef26bee44ef6ea5e80f3839d5cf79d26cafd6323cfcd8f4f"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0e6cd851a0625b4f41f60e0ecb700f984c5002ba3aabc096c2b499b3f86ac406"
+hash = "9648a40b689b899be7bcbc21d1d881cdd0ebefb412427f9475aeff981894e367"
 metafile = true
 
 [[files]]
@@ -717,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "9f37f04384bd80a9c5d0dd72aa55cc7884ec18818d5657b7ec2c0dad4ff1358a"
 metafile = true
 
 [[files]]
