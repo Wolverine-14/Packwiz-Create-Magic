@@ -282,6 +282,11 @@ hash = "ee1b3d8e282abfa34c3ef3092d5fb6b787af1c39dba02bd5b8d27a5c56952017"
 metafile = true
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "a96a01189b9d1d06da0ba76cc315a107212da8ad98f49745776c348075b1da74"
+metafile = true
+
+[[files]]
 file = "mods/advancementsfullscreen.pw.toml"
 hash = "1a9860ee8bdd72d3e11c322f8f6f9197ee87a91c2eda21e968ceadf98515cb99"
 metafile = true
