@@ -1,8 +1,7 @@
 name = "HexCasting"
-filename = "hexcasting-fabric-1.20.1-0.11.1-7-pre-679.jar"
-side = "both"
+filename = "hexcasting-fabric-1.20.1-0.11.1-7-pre-698.jar"
 
 [download]
-url = "https://maven.blamejared.com/at/petra-k/hexcasting/hexcasting-fabric-1.20.1/0.11.1-7-pre-679/hexcasting-fabric-1.20.1-0.11.1-7-pre-679.jar"
+url = "https://maven.blamejared.com/at/petra-k/hexcasting/hexcasting-fabric-1.20.1/0.11.1-7-pre-698/hexcasting-fabric-1.20.1-0.11.1-7-pre-698.jar"
 hash-format = "sha256"
-hash = "fabca80dfd3d9fcf38a784911f5e0c922df44f6046a2e07e1ee3a99330e3fb3d"
+hash = "6bcb2dbfd9d3eb41414bc47ebe9e68739b9908e47312ef24b59e55985e6ac761"

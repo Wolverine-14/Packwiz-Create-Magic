@@ -6,7 +6,7 @@ hash = "6b3afef1a8c8d715810ba78b34d6d052a797a0d3e624c41a0f06978867446997"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "d48a087229c1b4e5163643d9254b2cface29106517873f77c79b2960097d095b"
+hash = "b074808d18b7ad65dea9d8a1a7cca45dcc0cc85b14fad63ed484ab437ad665af"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "98f9f964a40a17dfb7d29d1c1fff78990ce3e16cd770241f71a64525c79fc973"
+hash = "d735d6e0957394e6b985e639c5772ad6ce942f972dcd0b0fd037e30b08fc22aa"
 metafile = true
 
 [[files]]
