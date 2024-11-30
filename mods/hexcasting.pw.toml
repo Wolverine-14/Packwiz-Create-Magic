@@ -1,13 +1,7 @@
-name = "Hex Casting"
-filename = "hexcasting-fabric-1.20.1-0.11.2.jar"
-side = "both"
+name = "HexCasting"
+filename = "hexcasting-fabric-1.20.1-0.11.1-7-pre-679.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/nTW3yKrm/versions/IvI9LKNc/hexcasting-fabric-1.20.1-0.11.2.jar"
-hash-format = "sha512"
-hash = "0587997cf75cc8ffc7c7f10e10ccd856a683f6e2bd7433f66a0e9d6e4b3ae143fd26be62d459580e48a241e34cd6d3adc0d1407ec3717d7d6751cd59a45385b6"
-
-[update]
-[update.modrinth]
-mod-id = "nTW3yKrm"
-version = "IvI9LKNc"
+url = "https://maven.blamejared.com/at/petra-k/hexcasting/hexcasting-fabric-1.20.1/0.11.1-7-pre-679/hexcasting-fabric-1.20.1-0.11.1-7-pre-679.jar"
+hash-format = "sha256"
+hash = "fabca80dfd3d9fcf38a784911f5e0c922df44f6046a2e07e1ee3a99330e3fb3d"
