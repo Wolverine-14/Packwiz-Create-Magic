@@ -307,6 +307,11 @@ hash = "a77be405f5de375293a2831927dd9b65c1a39cee368c6913b7f7d8b1576c14c7"
 metafile = true
 
 [[files]]
+file = "mods/bettermaps.pw.toml"
+hash = "314b5e955fac80ef47c2eb9a6389fa74e2b0fbb27a60b64e160fa956975c6889"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
